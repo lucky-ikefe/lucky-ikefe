@@ -1,41 +1,7 @@
-## 👋 About Me
-
-Hi there! I'm **Lucky Ikefe**, a passionate **Frontend Web Developer** with a background in Civil Engineering. I love building innovative, user-friendly, and impactful web applications that solve real-world problems. My journey into tech has been driven by a curiosity for creating seamless digital experiences, and I’m constantly refining my skills to stay ahead in the ever-evolving world of web development.
-
-### 🛠️ Technologies & Tools
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks**: React.js, Next.js, Redux
-- **Styling**: TailwindCSS, shadcnUI
-- **Tools**: Git, VS Code, Figma, Notion, Miro
-- **Backend Integration**: Next.js Server Actions, Prisma ORM, NextAuth
-- **Other Skills**: Responsive Design, Performance Optimization (SSR, SSG, Lazy Loading)
-
-### 🌱 What I’m Currently Learning
-- Exploring **AI-powered tools** and integrating them into web applications.
-- Deepening my knowledge of **TypeScript** and **Next.js** for scalable and type-safe applications.
-- Improving my **UI/UX design** skills to create more intuitive and visually appealing interfaces.
-
-### 🚀 Projects I’m Proud Of
-- **[AI-Powered Coding Assistant](https://github.com/Lucky-Ikefe/ai-coding-assistant)**: An AI-driven tool that generates, debugs, and explains code snippets in real-time. Built with Next.js, TypeScript, and Llama 3.
-- **[Todo List App](https://lucky-ikefe.github.io/todo-list-app-2/)**: A simple yet powerful task management application built with React.
-- **[Portfolio Website](https://your-portfolio-url.com)**: A personal portfolio showcasing my projects and skills.
-
-### 📫 Let’s Connect!
-I’m always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me:
-- **Email**: lkefe04@gmail.com
-- **LinkedIn**: [Lucky Ikefe](https://linkedin.com/in/your-profile)
-- **GitHub**: [Lucky-Ikefe](https://github.com/Lucky-Ikefe)
-
-### ⚡ Fun Fact
-When I’m not coding, you’ll find me exploring new coffee shops, playing video games, or binge-watching sci-fi series!
-
----
-
-⭐ **Thanks for visiting my profile!** ⭐
 
 
 # 💫 About Me:
-Hi there! I'm Lucky Ikefe, a passionate Frontend Web Developer with a background in Civil Engineering. I love building innovative, user-friendly, and impactful web applications that solve real-world problems. My journey into tech has been driven by a curiosity for creating seamless digital experiences, and I’m constantly refining my skills to stay ahead in the ever-evolving world of web development.
+Hi there! I'm **Lucky Ikefe**, a passionate **Frontend Web Developer** with a background in Civil Engineering. I love building innovative, user-friendly, and impactful web applications that solve real-world problems. My journey into tech has been driven by a curiosity for creating seamless digital experiences, and I’m constantly refining my skills to stay ahead in the ever-evolving world of web development.
 
 
 ## 🌐 Socials:
