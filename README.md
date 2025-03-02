@@ -1,6 +1,5 @@
 <div align="center">
-  <p>Lucky Ikef</p>
-  <p></p>
+  <img src="./assets/header.png" alt="Banner" width="800">
 </div>
 
 # 💫 About Me:
