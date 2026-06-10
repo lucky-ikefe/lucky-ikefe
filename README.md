@@ -80,15 +80,3 @@ Outside of code, I care about clean architecture, good documentation, and tools 
 ![Prettier](https://img.shields.io/badge/Prettier-EF4444?style=for-the-badge&logo=prettier&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lucky-ikefe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=lucky-ikefe&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-ikefe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lucky-ikefe&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=lucky-ikefe&icon=0&color=0)](https://visitcount.itsvg.in)
